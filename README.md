@@ -23,6 +23,10 @@ The repository may include (examples below—edit as needed):
 - **Libft**: Implementation of standard C library functions.
 - **ft_printf**: Custom implementation of the printf function.
 - **GNL (Get Next Line)**: Reading a file line by line efficiently.
+- **pipex**: Simulation of shell-like pipelines between processes.
+- **push_swap**: Efficiently sorting data using a limited set of stack operations.
+- **so_long**: A simple 2D game demonstrating graphical programming basics.
+- **philosophers**: Implementation of the classic dining philosophers problem using threads and synchronization primitives.
 
 Check specific folders or files for details on each project.
 
