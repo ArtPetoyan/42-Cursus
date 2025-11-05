@@ -1,0 +1,13 @@
+EA ../textures/armenak.xpm
+NO ../textures/EA_Wall.xpm
+SO ../textures/SO_Wall.xpm
+WE ../textures/malena.xpm
+
+F 124,45,12
+C 102,100,145
+
+11111111
+10000001
+1000S001
+10000001
+11111111
